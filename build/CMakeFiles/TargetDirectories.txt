@@ -1,0 +1,3 @@
+/Users/yaohua/c_workspace/sdl_player/build/CMakeFiles/sdl_player.dir
+/Users/yaohua/c_workspace/sdl_player/build/CMakeFiles/edit_cache.dir
+/Users/yaohua/c_workspace/sdl_player/build/CMakeFiles/rebuild_cache.dir
